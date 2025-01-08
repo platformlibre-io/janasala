@@ -17,8 +17,8 @@ $aConfig = array(
     'name' => 'bx_azrb2c',
     'title' => 'Azure B2C Connect',
     'note' => 'Join the site using Azure B2C account.',
-    'version' => '13.0.0.DEV',
-    'vendor' => 'UNA Inc',
+    'version' => '13.0.0.RC1',
+    'vendor' => 'Libresoft Tech',
     'help_url' => 'http://feed.una.io/?section={module_name}',
 
     'compatible_with' => array(
