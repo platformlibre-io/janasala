@@ -17,7 +17,7 @@ $aConfig = array(
     'name' => 'bx_cas',
     'title' => 'CAS connect',
     'note' => 'Join the site using CAS Identity Provider.',
-    'version' => '12.0.0.DEV',
+    'version' => '12.0.0.RC1',
     'vendor' => 'Boonex',
     'help_url' => 'http://feed.una.io/?section={module_name}',
 
