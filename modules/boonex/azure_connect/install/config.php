@@ -17,7 +17,7 @@ $aConfig = array(
     'name' => 'bx_azrcon',
     'title' => 'Azure AD Connect',
     'note' => 'Join the site using Azure AD account.',
-    'version' => '13.0.0.DEV',
+    'version' => '13.0.0.RC1',
     'vendor' => 'Boonex',
     'help_url' => 'http://feed.una.io/?section={module_name}',
 
