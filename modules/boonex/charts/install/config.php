@@ -18,7 +18,7 @@ $aConfig = array(
     'name' => 'bx_charts',
     'title' => 'Charts',
     'note' => 'Charts module.',
-    'version' => '13.0.3.DEV',
+    'version' => '13.0.3.RC1',
     'vendor' => 'BoonEx',
     'help_url' => 'http://feed.una.io/?section={module_name}',
 
