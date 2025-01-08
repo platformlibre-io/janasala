@@ -18,8 +18,8 @@ $aConfig = array(
     'name' => 'bx_attendant',
     'title' => 'Attendant',
     'note' => 'Attendant module.',
-    'version' => '14.0.1.DEV',
-    'vendor' => 'UNA INC',
+    'version' => '14.0.1.RC1',
+    'vendor' => 'Libresot Tech',
     'help_url' => 'http://feed.una.io/?section={module_name}',
 
     'compatible_with' => array(
