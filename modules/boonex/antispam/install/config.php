@@ -17,7 +17,7 @@ $aConfig = array(
     'name' => 'bx_antispam',
     'title' => 'Antispam',
     'note' => 'Antispam tools',
-    'version' => '14.0.2.DEV',
+    'version' => '14.0.2.RC1',
     'vendor' => 'UNA INC',
     'help_url' => 'http://feed.una.io/?section={module_name}',
 
