@@ -18,8 +18,8 @@ $aConfig = array(
     'name' => 'bx_analytics',
     'title' => 'Analytics',
     'note' => 'Analytics module.',
-    'version' => '14.0.1.DEV',
-    'vendor' => 'UNA INC',
+    'version' => '14.0.1.RC1',
+    'vendor' => 'Libresot Tech',
     'help_url' => 'http://feed.una.io/?section={module_name}',
 
     'compatible_with' => array(
